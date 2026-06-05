@@ -1,9 +1,0 @@
-testhtml.blk
-vendor/bundle/
-.bundle/
-.DS_Store
-*.swp
-*~
-app.pid
-app.log
-nohup.out
